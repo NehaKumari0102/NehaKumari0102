@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NehaKumari0102
 - 👀 I’m interested in Front-end Web Development
-- 📫 How to reach me: Linkedin - https://www.linkedin/in/nehakumari0102
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/nehakumari0102
 - ⚡ Fun fact: I neither use space nor tab. I use prettier extension
 
 <!---
